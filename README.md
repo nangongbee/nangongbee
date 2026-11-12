@@ -4,11 +4,13 @@ Software Engineer | Backend Systems · AI Systems · Robotics
 
 ## About Me
 
-I have spent more than thirteen years building server software, most of it on Linux and much of it in C++. The systems were game servers: a client connects through a gateway, login and game logic are separate services, and platform functions sit beside the core loop rather than inside it.
+I am a software engineer focused on building reliable software systems.
 
-That work also used Go, Python, Lua, and TypeScript when a service boundary was a better fit than one more C++ process.
+My engineering interests include backend architecture, distributed systems, C++ and Linux, real-time communication, AI infrastructure, and robotics software.
 
-I am now studying AI systems and robotics software. Those are current areas of practice. They are not a claim of many years shipping robots or model platforms.
+I enjoy designing system boundaries, defining communication protocols, and building reliable services that connect devices, software, and intelligent applications.
+
+Currently exploring AI systems, real-time voice interaction, intelligent hardware, and ROS 2.
 
 ## Engineering Focus
 
@@ -16,11 +18,11 @@ I am now studying AI systems and robotics software. Those are current areas of p
 
 **Distributed systems.** Login state, cross-service calls, and shared data need an owner. Databases, caches, and messages are part of the design.
 
-**C++ and Linux.** Long-running services have mostly been C++ processes: networking, threading, and the ordinary work of making a server process understandable in production.
+**C++ and Linux.** Networking, threading, and the ordinary work of making a server process understandable.
 
 **AI systems.** I am learning how a model call fits inside a service: timeouts, a task that can fail in the open, and a pipeline that does not hide a bad result. Notes will be marked as study until there is a public project behind them.
 
-**Real-time communication.** A game gateway and a voice session raise the same kind of question: what is buffered, what is a session, and what happens when the other side disappears.
+**Real-time communication.** A session has to say what is buffered, and what happens when the other side disappears.
 
 **Robotics middleware.** ROS 2 is how I am studying robotics software. Simulation comes first. I do not describe that work as a deployed robot.
 
