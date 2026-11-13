@@ -10,6 +10,8 @@ My interests include backend architecture, C++ and Linux, distributed systems, A
 
 Website: https://nangongbee.github.io/
 
+Email: bumble.timwu@gmail.com
+
 ## Selected Projects
 
 - [dungeon-gen](https://github.com/nangongbee/dungeon-gen) — C++20 dungeon generator. One seed produces a fixed layout of paths, doors, and keys.
