@@ -12,4 +12,8 @@ Website: https://nangongbee.github.io/
 
 ## Selected Projects
 
-Projects are being organized and will be published as they are ready.
+- [dungeon-gen](https://github.com/nangongbee/dungeon-gen) — C++20 dungeon generator. One seed produces a fixed layout of paths, doors, and keys.
+- [fox-core](https://github.com/nangongbee/fox-core) — Node.js bootstrap for a game-service process: lifecycle, plugins, and configuration.
+- [fox](https://github.com/nangongbee/fox) — Directory conventions on fox-core: controller, service, event, and crontab.
+
+Notes: [nangongbee.github.io/projects](https://nangongbee.github.io/projects/)
